@@ -1,0 +1,9 @@
+This is a collection of plugins for [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) made by [Rudokhvist](https://github.com/Rudokhvist).
+
+![Rudokhvist's Stats](https://github-readme-stats.vercel.app/api?username=Rudokhvist&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/CatPoweredPlugins)
+
+[![PayPal donate](https://img.shields.io/badge/PayPal-donate-00457c.svg?logo=paypal)](https://www.paypal.com/donate/?business=SX99L4RVR8ZKS&no_recurring=0&item_name=Your+donations+help+me+to+keep+working+on+existing+and+future+plugins+for+ASF.+I+really+appreciate+this%21&currency_code=USD)
+[![BTC donate](https://img.shields.io/badge/BTC-donate-f7931a.svg?logo=bitcoin)](https://www.blockchain.com/explorer/addresses/btc/bc1q8f3zcss5j6gq7hpvum0nzxvfgnm5f8mtxflfxh)
+[![LTC donate](https://img.shields.io/badge/LTC-donate-485fc7.svg?logo=litecoin&logoColor=rgb(92,115,219))](https://litecoinblockexplorer.net/address/LRFrKDFhyEgv7PKb2vFrdYBP7ibUg898Vk)
